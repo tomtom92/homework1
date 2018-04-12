@@ -1,0 +1,6 @@
+<launch>
+    <node name="talkerhw1" pkg="homework1" type="talkerhw1" />
+    <node name="listenerhw1" pkg="homework1" type="listenerhw1"  output="screen"/>
+    <node name="handlerhw1" pkg="homework1" type="handlerhw1"  output="screen" />
+</launch>
+
