@@ -10,15 +10,15 @@ A. Y. 2017/2018
 
 The project is composed by three nodes.
 
-Firstly, Handlerhw1.cpp prints the menu in witch the user selects the information:
+Firstly, handlerhw1.cpp prints the menu in witch the user selects the information:
 - 'a' : all information
 - 'n' : name
 - 'e' : age
 - 'c' : course
 
-Secondly, Talkerhw1.cpp sends all informations to listenerhw.cpp.
+Secondly, talkerhw1.cpp sends all informations to listenerhw.cpp.
 
-Finaly, Listenerhw1.cpp listens the two nodes and it prints the information that was choosen.
+Finaly, listenerhw1.cpp listens the two nodes and it prints the information that was choosen.
 
 In the folder 'msg' the user finds the file mex.msg in witch there is the struct of the messages.
 
